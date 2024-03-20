@@ -8,10 +8,12 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 ## Introduction
 
 <p align="center">
-    <img alt="https://github.com/ashu6530/TicTacToe/assets/82864661/70d0a421-85c1-4d2d-94ec-2982f67cd46f" width="800">
+    <img alt="![Screenshot 2024-03-20 at 10 41 51 PM](https://github.com/ashu6530/TicTacToe/assets/82864661/bf7e6fc3-f02c-463b-8ce2-fa3cf93e1bf8)
+" width="800">
 </p
   <p align="center">
-    <img alt="https://github.com/ashu6530/TicTacToe/assets/82864661/ffa2f722-7380-45f1-ab03-fe2ef36942ee" width="800">
+    <img alt="![Screenshot 2024-03-20 at 10 43 26 PM](https://github.com/ashu6530/TicTacToe/assets/82864661/7358a7f5-602d-452d-bdfb-15cdfc6d82f0)
+" width="800">
 </p>
 
 
