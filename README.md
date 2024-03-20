@@ -2,6 +2,10 @@
 
 Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
+
+
+## Introduction
+
 ![Screenshot 2024-03-20 at 10 41 51 PM](https://github.com/ashu6530/TicTacToe/assets/82864661/3d158a0f-39e6-40a5-b615-2ff01a5c4070)
 
 ![Screenshot 2024-03-20 at 10 43 26 PM]
@@ -10,15 +14,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 
 
 
-## Introduction
 
-<p align="center">
-    <img src="![image](https://github.com/ashu6530/TicTacToe/assets/82864661/2cd3e20d-cde3-4324-bab2-75553dc3c50d)">
-
-</p
-  <p align="center">
-   <img src="![Screenshot 2024-03-20 at 10 43 26 PM](https://github.com/ashu6530/TicTacToe/assets/82864661/58c35785-a31f-45c8-9a29-c993182e0371)">
-</p>
 
 
 ### Rules
