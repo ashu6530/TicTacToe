@@ -10,15 +10,6 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 
 
 
-![Screenshot 2024-03-20 at 10 43 26 PM]
-(https://github.com/ashu6530/TicTacToe/assets/82864661/fe876381-b596-4779-b733-8fa09357f432)
-
-
-
-
-
-
-
 ### Rules
 
 - Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
